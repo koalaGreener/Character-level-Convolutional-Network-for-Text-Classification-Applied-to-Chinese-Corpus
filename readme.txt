@@ -1,4 +1,4 @@
-\section{Requirements}
+#Requirements
 
 Python2 / Python3
 
@@ -6,7 +6,7 @@ Keras
 
 Tensorflow
 
-\section{Components}
+#Components
 
 This repository contains the following components:
 
@@ -17,7 +17,7 @@ Dataset: The dataset for proposed model.
 Data Preprocessing: Some source code for data preprocessing, and it can be used to reproduce the dataset using Sogou news articles. 
 
 
-\section{Example Usage}
+#Example Usage
 
 1.Install the Keras and switched the backend to Tensorflow.
 
@@ -26,6 +26,6 @@ Data Preprocessing: Some source code for data preprocessing, and it can be used 
 3.Import the ipynb files into the IPython Notebook, and start to train the models.
 
 
-\section{Licence}
+#Licence
 
 MIT
