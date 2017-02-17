@@ -34,4 +34,10 @@ MIT
 
 #Version
 
-v0.1 initial code for the thesis. I will upload the thesis to arxiv after the marking.
+v0.1 initial code for the thesis. 
+
+#Thesis link
+
+https://arxiv.org/abs/1611.04358
+
+Character-level Convolutional Network for Text Classification Applied to Chinese Corpus
